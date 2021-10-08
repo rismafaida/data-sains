@@ -1,2 +1,0 @@
-# Pandas Journey - Data Sains
-
