@@ -1,3 +1,2 @@
-# Pandas Journey
+# Pandas Journey - Data Sains
 
-The journey to use pandas.
