@@ -1,3 +1,2 @@
-# Pandas Journey
+# Pandas for Data Science
 
-The journey to use pandas.
